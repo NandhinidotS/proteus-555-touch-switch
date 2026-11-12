@@ -41,7 +41,7 @@ It is a simple way to learn how the 555 timer works in monostable mode and how a
 
 The circuit is drawn in Proteus 8. The push button S1 pulls the trigger pin of the 555 to GND, the same way a finger touch would.
 
-[![Circuit Diagram](Circuit.png)
+![Circuit Diagram](Circuit.png)
 
 ### Pin Connections
 
@@ -83,7 +83,7 @@ Rename all four +12V terminals to `VCC`. Then go to **Design → Configure Power
 
 Click the **Play** button at the bottom left. At the start the LED is OFF and the relay is in its resting position.
 
-[![LED OFF](LED_OFF.png)
+![LED OFF](LED_OFF.png)
 
 ### Step 4: Touch the Button
 
@@ -93,7 +93,7 @@ Press and hold the push button **S1** with the mouse for about one second, then 
 
 The LED turns ON and the relay switches. After about 11 seconds both turn OFF automatically.
 
-[![LED ON](LED_ON.png)
+![LED ON](LED_ON.png)
 
 ## Output
 
